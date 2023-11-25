@@ -1,0 +1,22 @@
+{
+  "name": "formatting-your-date",
+  "version": "1.0.0",
+  "description": "Format your date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manahilshakil/date-npm-package.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "Manahil Shakil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manahilshakil/date-npm-package/issues"
+  },
+  "homepage": "https://github.com/manahilshakil/date-npm-package#readme"
+}
